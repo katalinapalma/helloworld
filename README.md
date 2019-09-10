@@ -1,5 +1,3 @@
 # helloworld
 hello
 
-*hello
-*world
